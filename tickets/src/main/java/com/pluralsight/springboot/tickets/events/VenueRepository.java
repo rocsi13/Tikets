@@ -8,7 +8,7 @@ import java.util.Optional;
 @Repository
 public class VenueRepository {
     private final List<Venue> venues = List.of(
-            new Venue(201, "Globomantics Main Office", "Test Street 352", "New York", "USA"),
+            new Venue(201, "Globomantics Main Office", "Test Street 351", "New York", "USA"),
             new Venue(202, "Sea View Hotel", "Beach Bolulevard 154", "Los Angeles", "USA")
     );
     public Optional<Venue> findById(int id) {
