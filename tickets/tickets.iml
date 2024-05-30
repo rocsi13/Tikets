@@ -79,6 +79,14 @@
     <orderEntry type="library" name="Maven: jakarta.validation:jakarta.validation-api:3.0.2" level="project" />
     <orderEntry type="library" name="Maven: org.jboss.logging:jboss-logging:3.5.3.Final" level="project" />
     <orderEntry type="library" name="Maven: com.fasterxml:classmate:1.7.0" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework.boot:spring-boot-starter-data-mongodb:3.3.0" level="project" />
+    <orderEntry type="library" name="Maven: org.mongodb:mongodb-driver-sync:5.0.1" level="project" />
+    <orderEntry type="library" name="Maven: org.mongodb:bson:5.0.1" level="project" />
+    <orderEntry type="library" name="Maven: org.mongodb:mongodb-driver-core:5.0.1" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Maven: org.mongodb:bson-record-codec:5.0.1" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework.data:spring-data-mongodb:4.3.0" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework:spring-tx:6.1.8" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework.data:spring-data-commons:3.3.0" level="project" />
     <orderEntry type="library" name="Maven: org.jetbrains:annotations:24.1.0" level="project" />
     <orderEntry type="library" name="Maven: javax.validation:validation-api:2.0.0.Final" level="project" />
   </component>

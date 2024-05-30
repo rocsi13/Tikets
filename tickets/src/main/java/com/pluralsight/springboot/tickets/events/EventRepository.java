@@ -7,7 +7,7 @@ import java.util.List;
 import java.util.Optional;
 
 @Repository
-public class EventRepository {
+public class EventRepository extends JpaRepository<Event, Integer> {
     private final List<Event> events = List.of(
             new Event(501, "Globomantics Tech Conference",
                     new Organizer(101, "Globomantics", "Globomantics Technology Corporation"),
